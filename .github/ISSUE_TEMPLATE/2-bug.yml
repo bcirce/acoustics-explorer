@@ -1,0 +1,40 @@
+name: Report a bug
+description: Something broken, or an entry that looks wrong.
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: And what did you expect instead? For a wrong entry, say what's wrong and link the official page if you can.
+    validations:
+      required: true
+  - type: input
+    id: page
+    attributes:
+      label: Page address
+      placeholder: https://acousticsexplorer.com/...
+  - type: input
+    id: device
+    attributes:
+      label: Device and browser
+      placeholder: e.g. iPhone 15, Safari · Windows laptop, Chrome
+  - type: dropdown
+    id: skin
+    attributes:
+      label: Skin (look), if you know it
+      options:
+        - Don't know
+        - Anechoic
+        - Glasswork
+        - Sonar
+        - Control Room
+        - Field Atlas
+        - Community Board
+        - High Contrast
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Screenshot
+      description: Drag an image here. It helps a lot.

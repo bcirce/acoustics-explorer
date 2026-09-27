@@ -1,0 +1,22 @@
+name: Share an idea
+description: A feature, an improvement, or something that would make the map more useful to you.
+title: "[Idea] "
+labels: ["idea"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea
+      description: What would you like, and what would it help you do?
+    validations:
+      required: true
+  - type: dropdown
+    id: who
+    attributes:
+      label: You are mostly…
+      options:
+        - A student looking for a programme
+        - A researcher looking for events
+        - An engineer looking for work
+        - An organiser (society, university, company)
+        - Something else

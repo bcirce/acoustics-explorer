@@ -1,0 +1,35 @@
+name: Suggest a source or opportunity
+description: A society calendar, job board, programme or event the map is missing.
+title: "[Source] "
+labels: ["source"]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks! Every entry on the map comes from an official page, so a link to the organiser's own site is the most useful thing you can give.
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What is it?
+      options:
+        - A source that lists many opportunities (society calendar, job board, university listing)
+        - A single course or programme
+        - A single event (congress, conference, workshop, webinar)
+        - A single job or position
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Official link
+      placeholder: https://
+    validations:
+      required: true
+  - type: input
+    id: where
+    attributes:
+      label: Country and city (if it's a single opportunity)
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else?
+      description: Language of the page, how often it's updated, why it's relevant to acoustics.
