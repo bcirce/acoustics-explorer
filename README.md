@@ -121,7 +121,7 @@ fills itself in; every submission is reviewed before it appears.
 
 ## Seven looks, light and dark
 
-![Four of the seven skins, two dark and two light](screenshots/themes.png)
+![Four of the seven skins, two dark and two light, each with an entry open](screenshots/themes.png)
 
 **Anechoic** (the default: precision lab), **Glasswork**, **Sonar**, **Control Room**,
 **Field Atlas**, **Community Board** and **High Contrast**, each in light and dark. They
