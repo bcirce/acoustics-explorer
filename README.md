@@ -39,14 +39,13 @@ apart.
 
 ### Narrow it down in one tap
 
-<img src="screenshots/filters.png" align="right" width="300" alt="The filters sidebar">
+- **Status, type and field**, each chip with a **live count** of what's there.
+- **Nothing selected means everything**; tapping a chip means *show only this*.
+- **Search** for a university, a city or a topic, and matches become removable chips. Tapping
+  a topic on any card adds it as a filter too.
+- **Sort** by newest, by deadline, A–Z, or keep only the funded ones.
 
-Status, type and field, each with a **live count** of what's there. Nothing selected means
-everything; tapping a chip means *show only this*. Counts follow the map as you move it.
-Free-text search turns matches into removable chips, and tapping a topic on any card adds it
-as a filter.
-
-<br clear="right">
+![Full-time jobs in audio and electroacoustics, filtered in two taps](screenshots/filters.png)
 
 ### Open an entry and the map follows
 
