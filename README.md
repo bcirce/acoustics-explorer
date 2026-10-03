@@ -39,13 +39,46 @@ apart.
 
 ### Narrow it down in one tap
 
-- **Status, type and field**, each chip with a **live count** of what's there.
-- **Nothing selected means everything**; tapping a chip means *show only this*.
-- **Search** for a university, a city or a topic, and matches become removable chips. Tapping
-  a topic on any card adds it as a filter too.
-- **Sort** by newest, by deadline, A–Z, or keep only the funded ones.
+<img src="screenshots/filters.png" align="right" width="280" alt="The filters sidebar: search, status, type, fields and sort, each chip with a live count">
 
-![Full-time jobs in audio and electroacoustics, filtered in two taps](screenshots/filters.png)
+The sidebar reads top to bottom, and every chip carries a **live count** of what it would
+show. Nothing selected means everything; tapping a chip means *show only this*.
+
+**Search.** Type a university, a city, a congress or a topic. Matches turn into removable
+chips, and tapping a topic on any card adds it as a filter too.
+
+**Status.** *Soon*, *open* or *closed*, worked out from the dates every time you load the
+page, so it's never stale. Each status has its own colour on the map, and it's always
+written as a word too.
+
+**Type.** Three families, each split the way people actually search:
+
+- **Courses**: undergraduate, master's, PhD, postdoc and certificates
+- **Events**: symposia, congresses, conferences, workshops and webinars
+- **Jobs**: full-time, part-time, contract, temporary, internships and student jobs
+
+**Fields.** Ten areas of acoustics: building & room, noise & environment, vibration &
+structures, audio & electroacoustics, music & sound production, AI & signal processing,
+communication & speech, psychoacoustics & perception, bio & underwater, and physical &
+computational. Pick one or several.
+
+**Sort.** Newest first, closest deadline, or A–Z, and **Funded** keeps only the
+opportunities with funding we've found.
+
+**Fit map to results** frames whatever is left, and **Save all** puts the whole search into
+your list in one tap (more on that [below](#keep-your-own-list-no-account-needed)).
+
+**Reset** brings everything back in one tap: chips, search terms and the selected country
+together. Your choices are remembered on this device, so the map opens the way you left it.
+
+**The Map tab** holds the legend, and the legend is a filter too: hide a category or a
+status straight from it, or turn the markers off to see the countries underneath. It's also
+where you switch between light and dark and pick one of the seven skins.
+
+**Submit an opportunity** sits at the bottom, one tap away from wherever you are, and it
+needs no account either.
+
+<br clear="right">
 
 ### Open an entry and the map follows
 
