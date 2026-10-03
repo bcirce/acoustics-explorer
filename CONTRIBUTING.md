@@ -7,9 +7,9 @@ repository has no code to change. There are still good ways to make the map bett
 
 Know a course, congress, workshop or job that's missing? Two options:
 
-- **On the site:** use **Submit** on [acousticsexplorer.com](https://acousticsexplorer.com).
-  Paste the official link and the form fills itself in. A moderator reviews it before it
-  appears.
+- **On the site:** use **Submit** on [acousticsexplorer.org](https://www.acousticsexplorer.org).
+  No account needed: paste the official link and the form fills itself in. A moderator
+  reviews it before it appears.
 - **Here:** open a [source or opportunity issue](../../issues/new/choose). This is the right
   place for a whole *source*, like a society calendar or a job board that lists many
   opportunities.

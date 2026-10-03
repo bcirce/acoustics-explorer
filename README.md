@@ -9,9 +9,9 @@
 Courses, events and jobs in **acoustic engineering**, scattered across hundreds of
 universities, societies and companies, gathered onto one interactive world map.
 
-**250+ opportunities · 50+ countries · 170+ cities · every entry traced to an official source**
+**330+ opportunities · 55+ countries · 230+ cities · every entry traced to an official source**
 
-**[→ Open the live map at acousticsexplorer.com](https://acousticsexplorer.com)**
+**[→ Open the live map at acousticsexplorer.org](https://www.acousticsexplorer.org)**
 
 ![The Acoustics Explorer dashboard](screenshots/hero.png)
 
@@ -65,12 +65,27 @@ and the address becomes a link you can share.
 
 ### Keep your own list, no account needed
 
-Bookmark entries into **My list**. It lives in your browser only; nothing is sent anywhere.
+There's nothing to sign up for. Tap the **bookmark** on any card or result row and the entry
+goes into **My list**.
+
+![Sixty master's programmes saved to My list in one tap, with Undo](screenshots/my-list.png)
+
+- **Save a whole search at once.** Narrow the map with a few filters or a country, then tap
+  **Save all** to add every match. If you change your mind, **Undo** removes just those.
+- **Just the ones in view.** If only some matches are on screen, you can save only those.
+- **See only your list.** The **My list** button in the results filters the map, the markers
+  and the results down to what you saved. Tap it again to see everything.
+- **Start over** with *Clear all* (it asks twice, so one stray tap won't wipe it).
+
+The list lives **in your browser only**: no account, no server, nothing sent anywhere. The
+first time you save something, a short note says so. The flip side is that clearing your
+browser data erases the list, and it doesn't follow you to another device (yet, see the
+[roadmap](ROADMAP.md)).
 
 ### Suggest an opportunity
 
-Anyone can submit a course, event or job. Paste a link and the form fills itself in; every
-submission is reviewed before it appears.
+Anyone can submit a course, event or job, again with no account. Paste a link and the form
+fills itself in; every submission is reviewed before it appears.
 
 ## Seven looks, light and dark
 
@@ -101,8 +116,9 @@ pipeline.
 
 ## Privacy
 
-No ads, no analytics, no tracking. Your filters, theme and list stay on your device. The
-only cookie is the sign-in one, and only if you sign in to submit.
+No ads, no analytics, no tracking, and **no cookies**: there are no visitor accounts at all.
+Your list, filters and theme stay in your own browser. Fonts and country shapes are served by
+the site itself; the only outside request is for the map tiles (CARTO).
 
 ## Built with
 

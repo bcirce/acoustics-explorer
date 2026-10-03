@@ -14,7 +14,7 @@ body:
     id: page
     attributes:
       label: Page address
-      placeholder: https://acousticsexplorer.com/...
+      placeholder: https://www.acousticsexplorer.org/...
   - type: input
     id: device
     attributes:

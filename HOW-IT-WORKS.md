@@ -45,7 +45,9 @@ flowchart TD
 
 The rules are enforced in code, not just policy: every entry must be placeable on the map,
 its official link must be unique, and a nightly check re-tests every link so dead postings
-are flagged for review.
+are flagged for review. Every entry also has to meet a written minimum (a title, a place, an
+official page, and a start date for events). A job with no deadline that nobody has
+confirmed for 60 days is hidden until a person checks it again.
 
 ## What you can trust on a card
 
@@ -55,11 +57,13 @@ page, so it's never stale.
 
 ## Privacy by design
 
-- **No accounts needed to browse or keep a list.** My list, your filters and your theme are
-  stored in your own browser and never leave it.
-- **No analytics, ads or trackers.**
-- **Sign-in is only for submitting**, by email link or password, and uses a single
-  strictly-necessary cookie.
+- **No accounts, for anything a visitor does.** Browsing, keeping a list and submitting an
+  opportunity all work without signing up. There is no visitor sign-in at all right now.
+- **Your list is yours.** My list, your filters and your theme are stored in your own browser
+  (local storage) and never leave it. The app can't see what you saved, so there's nothing
+  to leak, sell or delete on a server.
+- **No cookies, analytics, ads or trackers.** Fonts and map shapes are served by the site
+  itself; the only outside request is for the map tiles (CARTO).
 - The database is locked down: the sign-in service can't read or write data, and every
   data change goes through the app's own checks.
 - Written for Brazil's LGPD first, and the EU's GDPR.

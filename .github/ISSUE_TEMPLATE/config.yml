@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 contact_links:
   - name: Submit a single opportunity on the site
-    url: https://acousticsexplorer.com/submit
+    url: https://www.acousticsexplorer.org/submit
     about: The quickest way to add one course, event or job. Paste its official link and the form fills itself in.
   - name: Report a security problem
     url: https://github.com/bcirce/acoustics-explorer/blob/main/SECURITY.md
