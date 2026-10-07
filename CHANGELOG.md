@@ -2,12 +2,18 @@
 
 What changed in each version, in plain language.
 
-## 2.0.0 — upcoming · going public
+## 2.0.0 — 6 Oct 2026 · going public
 
-A new home: **acousticsexplorer.org**.
+A new home, open to everyone: **acousticsexplorer.org**.
 
-- **330+ opportunities** in 55+ countries, including a full round of 2027 master's
-  intakes, a jobs sweep and congresses into late 2027.
+- **350+ opportunities** in 55+ countries, including a full round of 2027 master's
+  intakes, two jobs sweeps and congresses into late 2027.
+- **Findable on Google.** Every entry and country has its own page in the sitemap, and jobs
+  and events carry the details Google needs for its job and event listings.
+- **Your data stays ours.** AI training crawlers and scrapers are asked to stay out of the
+  whole site; regular search engines are welcome.
+- **A proper link preview.** Sharing the site shows the spiral on teal instead of a
+  placeholder image.
 - **No account, no cookies.** Browsing, keeping a list and submitting all work without
   signing up, and visitor sign-in is switched off until a properly secure one is ready.
 - **Saving made clearer.** The first time you save an entry, a short note explains that your
@@ -28,6 +34,14 @@ A new home: **acousticsexplorer.org**.
   retention period listed.
 - **Legacy skin retired.** Seven skins remain; anyone who had Legacy saved now gets Anechoic.
 - **A new credit mark** in the corner, drawn by the author at age five.
+- **My list, everywhere.** One name for your saved entries, the count ignores entries that
+  have left the map, and the filter counts follow your list while it's shown.
+- **More room for the map on phones.** The map credits slide up with the header when it
+  tucks away.
+- **The title fits.** On computers the sidebar starts a little wider on bigger screens, so
+  "Acoustics Explorer" sits on one line.
+- **Safer submissions.** Anonymous submissions are rate-limited, and links in entries must
+  be ordinary web addresses.
 - **Phone fixes.** No more stray focus rings on the menu button or the filters panel after a
   tap (Safari and Firefox on iPhone).
 
