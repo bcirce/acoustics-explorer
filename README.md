@@ -97,11 +97,11 @@ and the address becomes a link you can share.
 
 ### Made for your phone
 
-![Acoustics Explorer on a phone: the world map with the results sheet, a job open over Belgium, and the filters drawer](screenshots/mobile.png)
+![Acoustics Explorer on a phone: the world map with the results sheet, the map zoomed to Singapore with an ultrasonics symposium open, and the filters drawer with Master's and Symposium selected](screenshots/mobile.png)
 
-The whole map fits a phone screen. Results slide up in a sheet you can swipe through, an
-opened entry takes the bottom of the screen while the map keeps its place, and the filters
-live in a drawer behind the menu button. The header tucks itself away after a moment to
+The whole map fits a phone screen. Results slide up in a sheet you can swipe through,
+opening an entry flies the map to it and puts the card at the bottom of the screen, and the
+filters live in a drawer behind the menu button. The header tucks itself away after a moment to
 give the map more room.
 
 ### Keep your own list, no account needed
