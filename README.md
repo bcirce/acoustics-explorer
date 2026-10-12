@@ -97,14 +97,12 @@ and the address becomes a link you can share.
 
 ### Made for your phone
 
-![Acoustics Explorer on a phone: the world map with the results sheet, the map zoomed to Singapore with an ultrasonics symposium open, and the filters drawer with Master's and Symposium selected](screenshots/mobile.png)
+![Three phones around the world: Acoustics '27 in Brussels, an acoustics engineering job at HARMAN in Seoul, and the African Bioacoustics Community Conference by Lake Naivasha in Kenya](screenshots/mobile-world.png)
 
 The whole map fits a phone screen. Results slide up in a sheet you can swipe through,
 opening an entry flies the map to it and puts the card at the bottom of the screen, and the
 filters live in a drawer behind the menu button. The header tucks itself away after a moment to
 give the map more room.
-
-![Three phones around the world: Acoustics '27 in Brussels, an acoustics engineering job at HARMAN in Seoul, and the African Bioacoustics Community Conference by Lake Naivasha in Kenya](screenshots/mobile-world.png)
 
 ### Keep your own list, no account needed
 
