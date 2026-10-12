@@ -9,7 +9,7 @@
 Courses, events and jobs in **acoustic engineering**, scattered across hundreds of
 universities, societies and companies, gathered onto one interactive world map.
 
-**350+ opportunities · 55+ countries · 240+ cities · every entry traced to an official source**
+**440+ opportunities · 60 countries · 280+ cities · every entry traced to an official source**
 
 **[→ Open the live map at acousticsexplorer.org](https://www.acousticsexplorer.org)**
 
@@ -103,6 +103,8 @@ The whole map fits a phone screen. Results slide up in a sheet you can swipe thr
 opening an entry flies the map to it and puts the card at the bottom of the screen, and the
 filters live in a drawer behind the menu button. The header tucks itself away after a moment to
 give the map more room.
+
+![Three phones around the world: Acoustics '27 in Brussels, an acoustics engineering job at HARMAN in Seoul, and the African Bioacoustics Community Conference by Lake Naivasha in Kenya](screenshots/mobile-world.png)
 
 ### Keep your own list, no account needed
 
